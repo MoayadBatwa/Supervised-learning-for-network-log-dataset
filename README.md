@@ -1,4 +1,4 @@
-# Network Anomaly Detection (Simple ML Project)
+# Network Anomaly Detection (ML Project)
 
 This project explores network anomaly detection using a small dataset and three classic machine learning models. The goal is to identify anomalous network activity based on features like latency and throughput.
 
